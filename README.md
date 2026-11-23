@@ -82,9 +82,7 @@ Get-FileHash .\PageFrame-Tray-v0.8.1.zip -Algorithm SHA256
 
 ## 저작권
 
-Copyright © 2026 Ryui93.
-
-All rights reserved.
+Copyright © 2026 Ryui93. All rights reserved.
 
 별도 허가 없이 프로그램 또는 제작자 정보를 변조해 재배포할 수 없습니다.
 
