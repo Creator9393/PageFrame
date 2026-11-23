@@ -5,6 +5,7 @@
 PageFrame은 크롬 확장 **PageFrame Capture Studio**와 Windows 트레이 앱 **PageFrame-Tray**로 이루어진 캡처·편집 도구입니다. 확장으로 웹페이지 전체를 한 장으로 캡처하고, 트레이 앱에서 창 캡처와 클립보드 이미지 편집까지 한 번에 할 수 있습니다. 광고, 회원가입, 외부 전송 없이 PC 안에서만 동작합니다.
 
 > Developed by **Ryui93**
+> 
 > Copyright © 2026 Ryui93. All rights reserved.
 
 ![PageFrame 미리보기](PageFrame_preview0.png)
@@ -59,7 +60,7 @@ Get-FileHash .\PageFrame-Tray-v0.8.1.zip -Algorithm SHA256
 | 키 | 기능 |
 |---|---|
 | `Ctrl+Alt+Shift+4` | 클립보드 이미지 편집 |
-| `Ctrl+Alt+Shift+5` | 활성 창 캡처 후 편집 |
+| `Ctrl+Alt+Shift+5` | 활성 창 캡처 (클립보드 복사 또는 편집, 옵션) |
 | `Ctrl+V` | 클립보드 이미지 편집 (메인 창 활성 시) |
 | 마우스 휠 | 세로 스크롤 |
 | `Shift` + 휠 | 가로 스크롤 |
@@ -81,7 +82,10 @@ Get-FileHash .\PageFrame-Tray-v0.8.1.zip -Algorithm SHA256
 
 ## 저작권
 
-Copyright © 2026 Ryui93. All rights reserved.
+Copyright © 2026 Ryui93.
+
+All rights reserved.
+
 별도 허가 없이 프로그램 또는 제작자 정보를 변조해 재배포할 수 없습니다.
 
 ## 마지막으로
