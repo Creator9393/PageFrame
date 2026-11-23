@@ -27,11 +27,12 @@ PageFrame은 크롬 확장 **PageFrame Capture Studio**와 Windows 트레이 앱
 - 최근 이미지: 편집본·스크린샷 폴더 썸네일, 원본으로 다시 편집
 - 원본 자동 보관 (개수 설정 가능), 다시 편집해도 원본 덮어쓰기 없음
 - Windows 시작 시 트레이로 자동 실행
+- 창 캡처 결과를 바로 클립보드로 복사 (옵션)
 
 ## 설치
 
 **PageFrame-Tray**
-1. [Releases](https://github.com/Creator9393/PageFrame/releases)에서 `PageFrame-Tray-v0.8.0.zip`을 내려받습니다.
+1. [Releases](https://github.com/Creator9393/PageFrame/releases)에서 `PageFrame-Tray-v0.8.1.zip`을 내려받습니다.
 2. 원하는 폴더에 압축을 풉니다.
 3. 실행 중인 이전 PageFrame-Tray가 있으면 트레이 아이콘 우클릭 → 종료합니다.
 4. `PageFrameTray.exe`를 실행합니다.
@@ -50,7 +51,7 @@ PageFrame은 크롬 확장 **PageFrame Capture Studio**와 Windows 트레이 앱
 PowerShell에서 SHA-256 값 확인:
 
 ```
-Get-FileHash .\PageFrame-Tray-v0.8.0.zip -Algorithm SHA256
+Get-FileHash .\PageFrame-Tray-v0.8.1.zip -Algorithm SHA256
 ```
 
 ## 주요 단축키
